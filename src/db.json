@@ -1,0 +1,100 @@
+{
+  "contas": [
+    {
+      "id": "1",
+      "nome": "vytor",
+      "senha": "12345"
+    },
+    {
+      "id": "2",
+      "nome": "abraao",
+      "senha": "67890"
+    },
+    {
+      "id": "2730",
+      "nome": "jonas",
+      "senha": "ben10"
+    }
+  ],
+  "fotos": [
+    {
+      "id": "1",
+      "criador": "vytor",
+      "imagem": "https://images.pexels.com/photos/7458752/pexels-photo-7458752.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoria": "café-da-manha",
+      "comentarios": [
+        {
+          "id": "1",
+          "criador": "vytor",
+          "comentario": "comentario foda"
+        },
+        {
+          "id": "2",
+          "criador": "abraao",
+          "comentario": "comentario do mano"
+        },
+        {
+          "id": "3",
+          "criador": "vytor",
+          "comentario": "comentario mais foda ainda"
+        },
+        {
+          "id": "4",
+          "criador": "vytor",
+          "comentario": "just fine"
+        },
+        {
+          "id": "5",
+          "criador": "jonas",
+          "comentario": "first"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "criador": "abraao",
+      "imagem": "https://images.pexels.com/photos/1437268/pexels-photo-1437268.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoria": "almoco",
+      "comentarios": [
+        {
+          "id": "1",
+          "criador": "vytor",
+          "comentario": "comentario dos mais zikas"
+        },
+        {
+          "id": "2",
+          "criador": "abraao",
+          "comentario": "comentario do manoulo"
+        },
+        {
+          "id": "3",
+          "criador": "vytor",
+          "comentario": "it works"
+        },
+        {
+          "id": "4",
+          "criador": "vytor",
+          "comentario": "aaaa"
+        },
+        {
+          "id": "5",
+          "criador": "jonas",
+          "comentario": "novo comment"
+        }
+      ]
+    },
+    {
+      "id": "48d6",
+      "criador": "jonas",
+      "imagem": "https://media.licdn.com/dms/image/v2/C4D12AQFPCGK5BPiYUA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1564044636166?e=2147483647&v=beta&t=mabmZJi2vw_a594FhZuh__8q5Q0ZUauq_HRxV1QXiX8",
+      "categoria": "almoco",
+      "comentarios": [
+        {
+          "id": "2",
+          "criador": "jonas",
+          "comentario": "novo comentario"
+        }
+      ]
+    }
+  ]
+}
